@@ -33,14 +33,13 @@ export default function Footer(props) {
           <List className={classes.list}>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="https://www.juliancio.com.br"
+                href="https://juliancio.github.io/portfolio-site/"
                 className={classes.block}
-                target="_blank"
               >
                 Juliâncio Carvalho
               </a>
             </ListItem>
-            <ListItem className={classes.inlineBlock}>
+            {/* <ListItem className={classes.inlineBlock}>
               <a
                 href="#"
                 className={classes.block}
@@ -48,16 +47,15 @@ export default function Footer(props) {
               >
                 Blog
               </a>
-            </ListItem>
+            </ListItem> */}
           </List>
         </div>
         <div className={classes.right}>
           &copy; 2019 , made with{" "}
           <Favorite className={classes.icon} /> by{" "}
           <a
-            href="https://www.juliancio.com.br"
+            href="https://juliancio.github.io/portfolio-site"
             className={aClasses}
-            target="_blank"
           >
             Juliâncio Carvalho
           </a>{" "}

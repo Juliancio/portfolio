@@ -26,7 +26,7 @@ export default function HeaderLinks(props) {
   const classes = useStyles();
   return (
     <List className={classes.list}>
-      <ListItem className={classes.listItem}>
+      {/* <ListItem className={classes.listItem}>
         <Button
           href="https://juliancio.github.io/portfolio-site/"
           color="transparent"
@@ -34,8 +34,8 @@ export default function HeaderLinks(props) {
         >
           Home
         </Button>
-      </ListItem>
-      <ListItem className={classes.listItem}>
+      </ListItem> */}
+      {/* <ListItem className={classes.listItem}>
         <Button
           href=""
           color="transparent"
@@ -52,8 +52,8 @@ export default function HeaderLinks(props) {
         >
           Portfolio
         </Button>
-      </ListItem>
-      <ListItem className={classes.listItem}>
+      </ListItem> */}
+      {/* <ListItem className={classes.listItem}>
         <Button
           href=""
           color="transparent"
@@ -61,7 +61,7 @@ export default function HeaderLinks(props) {
         >
           Blog
         </Button>
-      </ListItem>
+      </ListItem> */}
     </List>
   );
 }
