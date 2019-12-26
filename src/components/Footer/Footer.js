@@ -33,7 +33,7 @@ export default function Footer(props) {
           <List className={classes.list}>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="https://juliancio.github.io/portfolio-site/"
+                href="https://juliancio.github.io/portfolio"
                 className={classes.block}
               >
                 Juliâncio Carvalho
@@ -54,7 +54,7 @@ export default function Footer(props) {
           &copy; 2019 , made with{" "}
           <Favorite className={classes.icon} /> by{" "}
           <a
-            href="https://juliancio.github.io/portfolio-site"
+            href="https://juliancio.github.io/portfolio"
             className={aClasses}
           >
             Juliâncio Carvalho
