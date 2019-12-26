@@ -4,6 +4,7 @@
   "description": "Material Kit React. Coded by Creative Tim",
   "private": true,
   "homepage": "https://juliancio.github.io/portfolio-site/",
+  "main": "https://juliancio.github.io/portfolio-site/",
   "dependencies": {
     "@material-ui/core": "^4.3.2",
     "@material-ui/icons": "4.2.1",
