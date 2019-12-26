@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-site/static/css/main.9ca110cf.chunk.css",
-    "main.js": "/portfolio-site/static/js/main.a12468ab.chunk.js",
-    "main.js.map": "/portfolio-site/static/js/main.a12468ab.chunk.js.map",
-    "runtime~main.js": "/portfolio-site/static/js/runtime~main.06ea1984.js",
-    "runtime~main.js.map": "/portfolio-site/static/js/runtime~main.06ea1984.js.map",
-    "static/js/2.857c8085.chunk.js": "/portfolio-site/static/js/2.857c8085.chunk.js",
-    "static/js/2.857c8085.chunk.js.map": "/portfolio-site/static/js/2.857c8085.chunk.js.map",
-    "index.html": "/portfolio-site/index.html",
-    "precache-manifest.18915486f7fa5dfadbb92086de145359.js": "/portfolio-site/precache-manifest.18915486f7fa5dfadbb92086de145359.js",
-    "service-worker.js": "/portfolio-site/service-worker.js",
-    "static/css/main.9ca110cf.chunk.css.map": "/portfolio-site/static/css/main.9ca110cf.chunk.css.map",
-    "static/media/2215078.jpg": "/portfolio-site/static/media/2215078.72ddf374.jpg",
-    "static/media/profile-bg.jpg": "/portfolio-site/static/media/profile-bg.baf6b40a.jpg"
+    "main.css": "/portfolio/static/css/main.9ca110cf.chunk.css",
+    "main.js": "/portfolio/static/js/main.80e1ccbd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.80e1ccbd.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.40cdc701.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.40cdc701.js.map",
+    "static/js/2.857c8085.chunk.js": "/portfolio/static/js/2.857c8085.chunk.js",
+    "static/js/2.857c8085.chunk.js.map": "/portfolio/static/js/2.857c8085.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.371d8311afc18102b05bbb475371fde1.js": "/portfolio/precache-manifest.371d8311afc18102b05bbb475371fde1.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.9ca110cf.chunk.css.map": "/portfolio/static/css/main.9ca110cf.chunk.css.map",
+    "static/media/2215078.jpg": "/portfolio/static/media/2215078.72ddf374.jpg",
+    "static/media/profile-bg.jpg": "/portfolio/static/media/profile-bg.baf6b40a.jpg"
   }
 }
